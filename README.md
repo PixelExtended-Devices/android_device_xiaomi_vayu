@@ -1,4 +1,4 @@
-Copyright (C) 2021 ArrowOS
+Copyright (C) 2021 Pixel Extended
 
 Device configuration for Poco X3 Pro
 =========================================
